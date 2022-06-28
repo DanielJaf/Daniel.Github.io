@@ -10,7 +10,7 @@
   <h1 id="resultText"></h1>
   <script>
     
-    let response = prompt("Can you be my husband? Type Yes or No");
+    let response = prompt("Pwede ba kitang maging girlfriend"Type Yes or No");
     let outputText = "";
     
     if (response=="Yes"){
