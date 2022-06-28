@@ -10,15 +10,15 @@
   <h1 id="resultText"></h1>
   <script>
     
-    let response = prompt("Oo o hindi? Type Oo r Hindi");
+    let response = prompt("Can you be my husband? Type Yes or No");
     let outputText = "";
     
     if (response=="Yes"){
-      outputText = "Oo Typo";
+      outputText = "bottom Kita bukas";
     }else if(response=="No"){
-      outputText = "Hindi Typo";
+      outputText = "wag kana ulit mag sinungaling";
     }else{
-      outputText = "please type Oo or No!!";
+      outputText = "please type Yes or No!!";
     }
     
     document.getElementById("resultText").innerHTML = outputText;
