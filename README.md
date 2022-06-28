@@ -14,9 +14,9 @@
     let outputText = "";
     
     if (response=="Yes"){
-      outputText = "bottom Kita bukas";
+      outputText = "Haha Swerte ko naman gago";
     }else if(response=="No"){
-      outputText = "wag kana ulit mag sinungaling";
+      outputText = "Thank You For Answering The Question";
     }else{
       outputText = "please type Yes or No!!";
     }
